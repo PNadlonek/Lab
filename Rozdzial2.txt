@@ -21,4 +21,20 @@ echo Rozdzial3 > Rozdzial3.txt
 
 git add Rozdzial3.txt Rozdzial2.txt
 
+git add -u
+git commit
+git log
+git checkout d97e4080
+git checkout master 
+git remote add origin branch https://github.com/PNadlonek/Lab.git
+git branch -M main
+git push -u origin main
+
+git add -u
+git commit
+
+git push
+
+git clone 
+
 
